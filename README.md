@@ -1,4 +1,4 @@
-# RETRIEVAL-AUGMENTED GENERATION FOR INSTITUTIONAL INFORMATION ACCESS: A MULTILINGUAL ACADEMIC ASSISTANT CHATBOT PROTOTYPE
+# DEVELOPMENT OF A MULTILINGUAL AI-POWERED INFORMATION AND ADVISORY CHATBOT FOR ISTANBUL SABAHATTIN ZAIM UNIVERSITY
 
 An AI-powered chatbot prototype developed for Istanbul Sabahattin Zaim University (IZU). The system aims to answer users' questions using information obtained from the university's web resources.
 
@@ -25,8 +25,7 @@ As part of the project, data is collected from university web resources, process
 
 This project was developed as part of the **BAP-100 Research Project**.
 
-\## How to Run
-
+## How to Run
 
 
 1\. Install required packages:
